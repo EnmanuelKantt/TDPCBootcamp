@@ -1,0 +1,10 @@
+--Ejercicio Guiado de Repaso 
+ 
+ 
+1. Se requiere el listado de estudiantes del curso 0012, en donde, se muestre el rut, nombre, apellidos y comuna (nombre de la comuna) 
+ 
+2. Se solicita el listado de cursos de todos los cursos existentes hasta el momento, se necesita mostrar el código del curso, fecha de inicio y termino, la descripción del curso (a que plan formativo corresponde, fullstack java, fullstack js, etc) y la duración en horas de cada uno 
+ 
+3. Generar un reporte que muestra cada plan formativo con la cantidad de módulos de los que se compone 
+
+4. Se necesita mostrar el listado de módulos de los que se componen todos los planes formativos asociados a FullStack, el reporte debe mostrar el código del plan formativo, la descripción del mismo, código de los módulos y la descripción de los mismos 
